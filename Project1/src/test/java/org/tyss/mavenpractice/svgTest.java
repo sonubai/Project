@@ -6,8 +6,8 @@ public class svgTest {
 
 @Test
 public void testing() {
-	String browser=System.getProperty("browser");
-	String url=System.getProperty("url");
+	String Browser=System.getProperty("browser");
+	String URL=System.getProperty("url");
 	
 	
 	
